@@ -4,5 +4,5 @@
 
 
 
-# **Uso de Data Clean**
+# **Uso de Clean Data**
 ![Image](https://github.com/user-attachments/assets/07b2a16c-793f-46d4-bc3e-9ddc98189a7d)
